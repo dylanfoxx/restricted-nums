@@ -8,5 +8,4 @@ edition = "2018"
 
 [dependencies]
 paste = "1.0"
-static_assert_macro = "1"
 const_fn_assert = "0.1"
